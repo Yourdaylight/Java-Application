@@ -1,0 +1,6 @@
+B r r B B r
+r r r B r B
+r r r B r B
+r g r r B r
+r B B r B B
+r B r r r r
